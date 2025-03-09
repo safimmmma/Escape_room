@@ -6,5 +6,5 @@ Welcome to the **Number Wizard's Tower**! Solve math puzzles to escape before th
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/math-escape-room.git
+   git clone https://github.com/safimmmma/math-escape-room.git
    cd math-escape-room
